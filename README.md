@@ -5,7 +5,6 @@ The initial dataset for this analysis was cleaned using the Kaggle platform then
 
 This dashboard provides a comprehensive view of the data broken down by Borough with an overall view, key metrics and visualizations that offer valuable insights.  
 
-You’ll find pie charts and donut charts showing the distribution of sales across different products and countries, clustered coulmn charts and Area Chart depicting year-wise sales trends, and much more. The dashboard is interactive and customizable, allowing you to filter the data by Year, Quarter, Month, and Product to suit your needs.
 
 ## Table of Contents:
 [Kaggle Analysis w/dataset](https://www.kaggle.com/code/julyndav/ny-dog-bite-analysis-visualizations)
@@ -14,17 +13,18 @@ You’ll find pie charts and donut charts showing the distribution of sales acro
 
 
 
-## Required Project Libraries:
-| Library |Purpose |
+## Dog Bite Data Variables:
+| Variable |Purpose |
 | --- | --- |
-| SQLite3 | Allows connection to external database files |
-| Pandas| Main library for working with data |
-| Numpy | Used for numerical operations on large quantities of data |
-| Seaborn | Python visualization library based on matplotlib |
-| Matplotlib | Python visualization library |
-| DateTime | Manipulating data in to date/time formats |
-| Pathlib | To transfer dataframes into csv files for export and use with Tableau |
-| ipython-sql | Use sql within the Jupyter environment |
+| UniqueID| Unique dog bite case identifier |
+| DateofBite| Date bite took place |
+| Species | Type of animal |
+| Breed | Breed of dog |
+| Age | Age of dog at time of bite |
+| Gender | Gender of dog |
+| SpayNeuter | Whether reproductive organs have been removed |
+| Borough | New York City neighborhood/borough that bite took place in |
+| ZipCode |Zip code bite took place in |
 
 <br></br>
 
