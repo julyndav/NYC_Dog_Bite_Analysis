@@ -33,6 +33,7 @@ This dashboard provides a comprehensive view of the data broken down by Borough 
 ## Data Notes: 
 * Ages with value of 0 were kept for the analysis. Zero age would be valid to keep in cases where the dog was a stray, or ran off after the bite incident.
 * Bite Month and Bite Year columns were added to the data set to aid in analysis.
+* There is an 'Other' option for the boroughs which included data outside of NYC. By filtering out the 'Other' boroughs, approximately 320 records were excluded from the dashboards as this PowerBi analysis was strictly for the NYC boroughs only. 
 
 ## Dashboard Notes:
 <i>Along with learning to import data from an external source and create various visualizations. This project was also to practice customizing those visualizations.</i>
@@ -48,7 +49,7 @@ Each borough as their own separate dashboard. Borough dashboards consists of don
 1.	Spayed/Neutered Percentage: This donut chart shows the distribution of whether the dog was spayed/neutered. Again this can only be known if the dog involved in the biting incident was detained or the dog was known by the person bit.
 2.	Gender Percentage: This donut chart shows the distribution genders.
 3.	Bites per Year: This clustered column chart shows the total bite incidents for each year. It helps in understanding/determining bite trends.
-4.	Top 8 Dog Breeds: This clustered column chart shows the top dog breeds prone to biting for the boroughs.
+4.	Top 8 Dog Breeds: This clustered column chart shows the top dog breeds prone to biting for the boroughs. 8 Breeds were chosen so the chart would display fully.
    
 ![Dashboard borough1](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/BoroughScreen.png)
 
@@ -60,10 +61,11 @@ By clicking on any of the variables in either bar chart, it will filtered the re
 
 ## Overview Dashboard   
 
-6.	Total Sales For Discount Brands: This pie chart shows the total sales for discount brands. It helps in understanding the contribution of discount brands to the total sales.
-7.	Total Sales by Segment: This pie chart shows the total sales by segments like Enterprise, Government, and Small Business. It helps in understanding the contribution of each segment to the total sales.
+1.	KPIs: These are just a random sample of various KPIs that could have been created. 
+2.	Bites per Months Overall: This clustered column chart breaks down the bite totals for each month of the entire study. We can see that the summer months are higher due to folks being out and about more.
 These charts provide a comprehensive view of the sales data and can be customized using the filters for Year, Quarter, Month, and Product.
 I believe this dashboard will serve as a powerful tool for data-driven decision making and I look forward to hearing your feedback. Please feel free to share your thoughts and suggestions.
+3.
 
 ![Overview](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/OverviewData.png)
 
