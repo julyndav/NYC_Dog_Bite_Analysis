@@ -44,14 +44,18 @@ There is a main landing page/home page where an individual borough can be select
 ### Borough Dashboards
 Each borough as their own separate dashboard. Borough dashboards consists of donut charts and bar charts. Clicking a variable on either bar chart will filter the other visuals within the page.
 
-1.	Spayed/Neutered Percentage: This donut chart shows the distribution of total sales across different products. It helps in understanding which product contributes more to the total sales.
-2.	Gender Percentage: This donut chart provides information about the total sales in different countries. It helps in identifying the countries contributing most to the sales.
-3.	Bites per Year: This clustered column chart shows the total sales by product for each year. It helps in understanding the trend of sales for each product over the years.
-4.	Top 8 Dog Breeds: This Area chart provides the total sales by country for each year. It helps in understanding the trend of sales in each country over the years.
+1.	Spayed/Neutered Percentage: This donut chart shows the distribution of whether the dog was spayed/neutered. Again this can only be known if the dog involved in the biting incident was detained or the dog was known by the person bit.
+2.	Gender Percentage: This donut chart shows the distribution genders.
+3.	Bites per Year: This clustered column chart shows the total bite incidents for each year. It helps in understanding/determining bite trends.
+4.	Top 8 Dog Breeds: This clustered column chart shows the top dog breeds prone to biting for the boroughs.
    
 ![Dashboard borough1](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/BoroughScreen.png)
 
-Images/BoroughScreen.png
+By clicking on any of the variables in either bar chart, it will filtered the rest of the data accordingly. 
+
+
+
+
 ### Overview Dashboard   
 6.	Total Sales For Discount Brands: This pie chart shows the total sales for discount brands. It helps in understanding the contribution of discount brands to the total sales.
 7.	Total Sales by Segment: This pie chart shows the total sales by segments like Enterprise, Government, and Small Business. It helps in understanding the contribution of each segment to the total sales.
