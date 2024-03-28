@@ -1,16 +1,18 @@
 # NYC_Dog_Bite_Analysis
-Analysis of dog bite data from 2015 through 2021 for all the boroughs within New York City
+I am excited to share my first Power BI dashboard. Happy to share my first Power BI project: a dynamic and interactive Dashboard for Dog bite data from various New York city boroughs! The time frame for the data covers 2015 through 2021.  
 
+The initial dataset for this analysis was cleaned using the Kaggle platform then imported into PowerBI. There is a link to the Kaggle analysis below.  There is also a link to the original dataset from the New York Open Data website (the dataset is continually being updated.
+
+This dashboard provides a comprehensive view of the data broken down by Borough with an overall view, key metrics and visualizations that offer valuable insights.  
+
+You’ll find pie charts and donut charts showing the distribution of sales across different products and countries, clustered coulmn charts and Area Chart depicting year-wise sales trends, and much more. The dashboard is interactive and customizable, allowing you to filter the data by Year, Quarter, Month, and Product to suit your needs.
 
 ## Table of Contents:
-[Tableau Dashboard](https://public.tableau.com/app/profile/julynda.vaughn/viz/AtliQCustomerAnalysisv6_2/AtliQCustomerDemographics)
+[Kaggle Analysis w/dataset](https://www.kaggle.com/code/julyndav/ny-dog-bite-analysis-visualizations)
 
-[Project Visualizations](https://github.com/julyndav/AtliQ-Hardware/tree/main/Analysis%20Images)
+[New York Open Data](https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data/rsgh-akpg/about_data)
 
-[AtliQ Decomposition Plan](https://github.com/julyndav/AtliQ-Hardware/blob/main/AtliQ%20Decomposition%20Plan%20Project.pdf)
 
-[Jupyter Notebook](https://github.com/julyndav/AtliQ-Hardware/blob/main/AtliQ%20Customer%20Analysis%20Final.ipynb)
-<br></br>
 
 ## Required Project Libraries:
 | Library |Purpose |
