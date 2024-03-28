@@ -62,8 +62,6 @@ By clicking on any of the variables in either bar chart, it will filtered the re
 
 ![Overview](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/OverviewData2.png)
 
-These charts provide a comprehensive view of the sales data and can be customized using the filters for Year, Quarter, Month, and Product.
-I believe this dashboard will serve as a powerful tool for data-driven decision making and I look forward to hearing your feedback. Please feel free to share your thoughts and suggestions.
 
 
 
