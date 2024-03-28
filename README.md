@@ -59,7 +59,7 @@ By clicking on any of the variables in either bar chart, it will filtered the re
 
 1.	KPIs: These are just a random sample of various KPIs that could have been created. 
 2.	Bites per Months Overall: This clustered column chart breaks down the bite totals for each month of the entire study. We can see that the summer months are higher due to folks being out and about more.
-3.
+3. Overall Bite Count by Age: Range of ages vs number of bites. The Ages went from 0 to 17.  Allegedly, one of the dogs in the study was 20 years old so they were singled out.  
 
 ![Overview](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/OverviewData2.png)
 
