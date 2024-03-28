@@ -29,9 +29,27 @@ This dashboard provides a comprehensive view of the data broken down by Borough 
 <br></br>
 
 
-# AtliQ Hardware Project Overview:
-## Description of Data: 
-This is an overview of the database tables used for Analysis. Note that since this analysis is customer focused, some of the tables will not be used. 
+# Project Overview:
+## Data Notes: 
+* Ages with value of 0 were kept for the analysis. Zero age would be valid to keep in cases where the dog was a stray, or ran off after the bite incident.
+* Bite Month and Bite Year columns were added to the data set to aid in analysis.
+
+# Dashboard Notes:
+<i>Along with learning to import data from an external source and create various visualizations. This project was also to practice customizing those visualizations.</i>
+
+Each borough as their own separate dashboard.  Borough dashboards consists of donut charts and bar charts
+
+You’ll find pie charts and donut charts showing the distribution of sales across different products and countries, clustered coulmn charts and Area Chart depicting year-wise sales trends, and much more. The dashboard is interactive and customizable, allowing you to filter the data by Year, Quarter, Month, and Product to suit your needs.
+1.	Total Sales by Product: This donut chart shows the distribution of total sales across different products. It helps in understanding which product contributes more to the total sales.
+2.	Total Sales by Country: This donut chart provides information about the total sales in different countries. It helps in identifying the countries contributing most to the sales.
+3.	Year-wise Total Sales by Product: This clustered column chart shows the total sales by product for each year. It helps in understanding the trend of sales for each product over the years.
+4.	Year-wise Total Sales by Country: This Area chart provides the total sales by country for each year. It helps in understanding the trend of sales in each country over the years.
+5.	Total Sales For Discount Brands: This pie chart shows the total sales for discount brands. It helps in understanding the contribution of discount brands to the total sales.
+6.	Total Sales by Segment: This pie chart shows the total sales by segments like Enterprise, Government, and Small Business. It helps in understanding the contribution of each segment to the total sales.
+These charts provide a comprehensive view of the sales data and can be customized using the filters for Year, Quarter, Month, and Product.
+I believe this dashboard will serve as a powerful tool for data-driven decision making and I look forward to hearing your feedback. Please feel free to share your thoughts and suggestions.
+
+
 #### To help with the intial analysis we used software for get a visual of the dataset tables and how they relate to each other.
 ![Table Relationships](https://github.com/julyndav/AtliQ-Hardware/blob/main/Analysis%20Images/Database%20flowchart.png)
 
