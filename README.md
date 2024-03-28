@@ -4,13 +4,11 @@ I am happy to share my first Power BI project: a dynamic and interactive Dashboa
 The initial dataset for this analysis was cleaned using the Kaggle platform then imported into PowerBI. There is a link to the Kaggle analysis below. There is also a link to the original dataset from the New York Open Data website (the dataset is continually being updated).
 
 This dashboard provides a comprehensive view of the data broken down by Borough with an overall view, key metrics and visualizations that offer valuable insights.  
-
 <br></br>
 ## Table of Contents:
 [Kaggle Analysis w/dataset](https://www.kaggle.com/code/julyndav/ny-dog-bite-analysis-visualizations)
 
 [New York Open Data](https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data/rsgh-akpg/about_data)
-
 <br></br>
 ## Dog Bite Data Variables:
 | Variable |Purpose |
@@ -26,8 +24,6 @@ This dashboard provides a comprehensive view of the data broken down by Borough 
 | ZipCode |Zip code bite took place in |
 
 <br></br>
-
-
 # Project Overview:
 ## Data Notes: 
 * Ages with value of 0 were kept for the analysis. Zero age would be valid to keep in cases where the dog was a stray, or ran off after the bite incident.
