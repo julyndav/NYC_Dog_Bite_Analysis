@@ -1,7 +1,7 @@
 # NYC_Dog_Bite_Analysis
-I am happy to share my first Power BI project: a dynamic and interactive Dashboard for Dog bite data from various New York city boroughs! The time frame for the data covers 2015 through 2021.  
+I am happy to share my first Power BI project: a dynamic and interactive Dashboard for Dog bite data from various New York city boroughs. The time frame for the data covers 2015 through 2021.  
 
-The initial dataset for this analysis was cleaned using the Kaggle platform then imported into PowerBI. There is a link to the Kaggle analysis below.  There is also a link to the original dataset from the New York Open Data website (the dataset is continually being updated.
+The initial dataset for this analysis was cleaned using the Kaggle platform then imported into PowerBI. There is a link to the Kaggle analysis below. There is also a link to the original dataset from the New York Open Data website (the dataset is continually being updated).
 
 This dashboard provides a comprehensive view of the data broken down by Borough with an overall view, key metrics and visualizations that offer valuable insights.  
 
