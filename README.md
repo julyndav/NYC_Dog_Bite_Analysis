@@ -41,7 +41,8 @@ There is a main landing page/home page where an individual borough can be select
 
 ![Dashboard Homescreen](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/HomeScreen.png)
 
-### Borough Dashboards
+
+## Borough Dashboards
 Each borough as their own separate dashboard. Borough dashboards consists of donut charts and bar charts. Clicking a variable on either bar chart will filter the other visuals within the page.
 
 1.	Spayed/Neutered Percentage: This donut chart shows the distribution of whether the dog was spayed/neutered. Again this can only be known if the dog involved in the biting incident was detained or the dog was known by the person bit.
@@ -57,13 +58,14 @@ By clicking on any of the variables in either bar chart, it will filtered the re
 | ![Breed](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/Manhat_filrd.png) | ![Year](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/Manhat_filrd2.png) | 
 
 
+## Overview Dashboard   
 
-### Overview Dashboard   
 6.	Total Sales For Discount Brands: This pie chart shows the total sales for discount brands. It helps in understanding the contribution of discount brands to the total sales.
 7.	Total Sales by Segment: This pie chart shows the total sales by segments like Enterprise, Government, and Small Business. It helps in understanding the contribution of each segment to the total sales.
 These charts provide a comprehensive view of the sales data and can be customized using the filters for Year, Quarter, Month, and Product.
 I believe this dashboard will serve as a powerful tool for data-driven decision making and I look forward to hearing your feedback. Please feel free to share your thoughts and suggestions.
 
+![Overview](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/OverviewData.png)
 
 These charts provide a comprehensive view of the sales data and can be customized using the filters for Year, Quarter, Month, and Product.
 I believe this dashboard will serve as a powerful tool for data-driven decision making and I look forward to hearing your feedback. Please feel free to share your thoughts and suggestions.
