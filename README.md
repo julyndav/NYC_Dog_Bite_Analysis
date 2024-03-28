@@ -39,7 +39,7 @@ This dashboard provides a comprehensive view of the data broken down by Borough 
 
 There is a main landing page/home page where an individual borough can be selected. The overview option shows various KPI's and other bite trends. 
 Each borough as their own separate dashboard. Borough dashboards consists of donut charts and bar charts. Clicking a variable on either bar chart will filter the other visuals within the page.
-![Dashboard Homescreen](https://github.com/julyndav/NYC_Dog_Bite_Analysis/)
+![Dashboard Homescreen](https://github.com/julyndav/NYC_Dog_Bite_Analysis/Images/HomeScreen.png)
 
 ### Borough Dashboards
 1.	Spayed/Neutered Percentage: This donut chart shows the distribution of total sales across different products. It helps in understanding which product contributes more to the total sales.
