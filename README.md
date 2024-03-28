@@ -5,14 +5,13 @@ The initial dataset for this analysis was cleaned using the Kaggle platform then
 
 This dashboard provides a comprehensive view of the data broken down by Borough with an overall view, key metrics and visualizations that offer valuable insights.  
 
-
+<br></br>
 ## Table of Contents:
 [Kaggle Analysis w/dataset](https://www.kaggle.com/code/julyndav/ny-dog-bite-analysis-visualizations)
 
 [New York Open Data](https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data/rsgh-akpg/about_data)
 
-
-
+<br></br>
 ## Dog Bite Data Variables:
 | Variable |Purpose |
 | --- | --- |
@@ -34,7 +33,7 @@ This dashboard provides a comprehensive view of the data broken down by Borough 
 * Ages with value of 0 were kept for the analysis. Zero age would be valid to keep in cases where the dog was a stray, or ran off after the bite incident.
 * Bite Month and Bite Year columns were added to the data set to aid in analysis.
 * There is an 'Other' option for the boroughs which included data outside of NYC. By filtering out the 'Other' boroughs, approximately 320 records were excluded from the dashboards as this PowerBi analysis was strictly for the NYC boroughs only. 
-
+<br></br>
 ## Dashboard Notes:
 <i>Along with learning to import data from an external source and create various visualizations. This project was also to practice customizing those visualizations.</i>
 
@@ -42,7 +41,7 @@ There is a main landing page/home page where an individual borough can be select
 
 ![Dashboard Homescreen](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/HomeScreen.png)
 
-
+<br></br>
 ## Borough Dashboards
 Each borough as their own separate dashboard. Borough dashboards consists of donut charts and bar charts. Clicking a variable on either bar chart will filter the other visuals within the page.
 
@@ -58,7 +57,7 @@ By clicking on any of the variables in either bar chart, it will filtered the re
 | ----------------------------------- | ----------------------------------- | 
 | ![Breed](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/Manhat_filrd.png) | ![Year](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/Manhat_filrd2.png) | 
 
-
+<br></br>
 ## Overview Dashboard   
 
 1.	KPIs: These are just a random sample of various KPIs that could have been created. 
