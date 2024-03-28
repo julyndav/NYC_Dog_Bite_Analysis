@@ -51,7 +51,7 @@ Each borough as their own separate dashboard. Borough dashboards consists of don
 By clicking on any of the variables in either bar chart, it will filtered the rest of the data accordingly. 
 | Data Filtered by Top 8 Variable     | Data Filtered by Year Variable      | 
 | ----------------------------------- | ----------------------------------- | 
-| Selecting the first dog breed       |   Seleceting 2018 Bite year         |
+| Selected the first dog breed       |   Selected 2018 Bite year         |
 ![Breed](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/Manhat_filrd.png) | ![Year](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/Manhat_filrd2.png) | 
 
 <br></br>
