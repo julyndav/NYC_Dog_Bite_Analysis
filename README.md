@@ -47,7 +47,7 @@ Each borough as their own separate dashboard. Borough dashboards consists of don
 4.	Top 8 Dog Breeds: This clustered column chart shows the top dog breeds prone to biting for the boroughs. 8 Breeds were chosen so the chart would display fully.
    
 ![Dashboard borough1](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/BoroughScreen.png)
-
+<p></p>
 By clicking on any of the variables in either bar chart, it will filtered the rest of the data accordingly. 
 | Data Filtered by Top 8 Variable     | Data Filtered by Year Variable      | 
 | ----------------------------------- | ----------------------------------- | 
