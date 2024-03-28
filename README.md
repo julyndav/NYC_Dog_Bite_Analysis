@@ -38,15 +38,20 @@ This dashboard provides a comprehensive view of the data broken down by Borough 
 <i>Along with learning to import data from an external source and create various visualizations. This project was also to practice customizing those visualizations.</i>
 
 There is a main landing page/home page where an individual borough can be selected. The overview option shows various KPI's and other bite trends. 
-Each borough as their own separate dashboard. Borough dashboards consists of donut charts and bar charts. Clicking a variable on either bar chart will filter the other visuals within the page.
+
 ![Dashboard Homescreen](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/HomeScreen.png)
 
 ### Borough Dashboards
+Each borough as their own separate dashboard. Borough dashboards consists of donut charts and bar charts. Clicking a variable on either bar chart will filter the other visuals within the page.
+
 1.	Spayed/Neutered Percentage: This donut chart shows the distribution of total sales across different products. It helps in understanding which product contributes more to the total sales.
 2.	Gender Percentage: This donut chart provides information about the total sales in different countries. It helps in identifying the countries contributing most to the sales.
 3.	Bites per Year: This clustered column chart shows the total sales by product for each year. It helps in understanding the trend of sales for each product over the years.
 4.	Top 8 Dog Breeds: This Area chart provides the total sales by country for each year. It helps in understanding the trend of sales in each country over the years.
+   
+![Dashboard borough1](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/BoroughScreen.png)
 
+Images/BoroughScreen.png
 ### Overview Dashboard   
 6.	Total Sales For Discount Brands: This pie chart shows the total sales for discount brands. It helps in understanding the contribution of discount brands to the total sales.
 7.	Total Sales by Segment: This pie chart shows the total sales by segments like Enterprise, Government, and Small Business. It helps in understanding the contribution of each segment to the total sales.
