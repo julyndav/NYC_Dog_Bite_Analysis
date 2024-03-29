@@ -63,6 +63,6 @@ By clicking on any of the variables in either bar chart, it will filtered the re
 
 ![Overview](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Images/OverviewData2.png)
 
-![Live View](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Dashboard in action.mp4)
+![Live View](https://github.com/julyndav/NYC_Dog_Bite_Analysis/blob/main/Dashboard_in_action.mp4)
 
 
